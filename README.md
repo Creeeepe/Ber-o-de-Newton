@@ -1,2 +1,3 @@
-# Ber-o-de-Newton
+# Berço-de-Newton
 Aprendemos a criar restrições e amarrar dois corpos.
+Com auxiliação da professora...
