@@ -1,3 +1,1 @@
-# Berço-de-Newton
-Aprendemos a criar restrições e amarrar dois corpos.
-Com auxiliação da professora...
+# C20-Student-boilerplate-code
